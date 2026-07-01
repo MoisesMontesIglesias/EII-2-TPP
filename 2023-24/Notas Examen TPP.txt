@@ -1,0 +1,95 @@
+Temas del Examen:
+- Tarea 1-3. Mi lista propia con todas las extensiones y pila
+- Tarea 4. Genericidad(T), IEnumerable (Current(indice actual), Dispose, MoveNext(Siguiente en la iteracion), 
+Reset (indice a -1)), GetEnumerator
+- Tarea 5. Delegados: 
+public delegate string OperacionConDosChar(char a, char b);
+OperacionConDosChar unaFuncion = Concatenar; 
+string resultado = unaFuncion('a', 'b'); 
+Console.WriteLine(resultado);
+
+DelegadosPredefinidos:
+Func<...>: Recibe entre 0-16 parametros y retorna 1
+Predicate<...>: Recibe un parámetro y devuelve un booleano
+Action<...>: Recibe entre 0-16 parametros y retorna void (es decir, no devuelve nada)
+
+LambdaSintaxis:
+Pasos: 
+public static string Concatenar(char a, char b) { return String.Format("{0}{1}",a,b);}
+1. Eliminamos hasta el primer paréntesis: (char a, char b) { return String.Format("{0}{1}",a,b);}
+2. Añadimos el operador => entre los parámetros y el cuerpo: (char a, char b) => { return String.Format("{0}{1}", a, b); }
+3. Declaramos la expresión con un delegado genérico basándonos en los parámetros y el retorno:*/
+Func<char, char, string> operación = (char a, char b) => { return String.Format("{0}{1}", a, b); };
+4. Si la expresisón tiene una única sentencia y es de retorno, podemos eliminar los {} el ; y el return
+Func<char, char, string> operaciónLimpia = (char a, char b) => String.Format("{0}{1}", a, b);
+5. Omitir los tipos:
+Func<char, char, string> operaciónLimpia = (a, b) => String.Format("{0}{1}", a, b);
+6. Si no tuviéramos parámetros, usaríamos () --> Cuando tenemos un único parámetro, no hace falta el paréntesis:
+Otro ejemplo (Le pasamos una expresión Lambda como función (f) y un entero (n)):  
+Func<Func<int, int>, int, int> lambdaDoble = (f, n) => f(f(n))
+Console.WriteLine(lambdaDoble(n => n + n, 3));
+
+- Tarea 6. Clausuras:
+//set recibe el nuevo valor y no devuelve nada.
+Action<int> SetValor;
+//get no recibe nada y devuelve un valor.
+Func<int> GetValor;
+ClausuraContenedor.CrearContador(5, out SetValor, out GetValor);
+Console.WriteLine($"[Clausuras] Almacenado: {GetValor()}");
+
+Currificación:
+public static bool ComprobarDivision(int divisor, int dividendo, int cociente, int resto)
+{
+    return dividendo == cociente * divisor + resto;
+}
+public static Func<int, Func<int, Func<int, bool>>> Current(int divisor)
+{
+	return dividendo => cociente => resto =>
+	{
+		return dividendo == cociente * divisor + resto;
+	}
+};
+
+Generadores:
+Eager vs Lazy:
+Eager: Se crea la colección completa para poder trabajar con ella
+Lazy: Generamos la colección bajo demanda usando el SKIP y el TAKE (es decir, no se crea)
+En el método se usa un while(true) y el yield return dentro del bucle para eso
+
+- Tarea 7. 
+Extensores:
+Los extensores llevan el this de la lista 
+public static void ForEach<T>(this IEnumerable<T> enumerable, Action<T> action)
+{
+	foreach (T item in enumerable)
+	{
+		action(item);
+	}
+}
+
+Map -> Permite transformar el tipo de una lista, por ejemplo de <T>s a <Q>s
+
+
+- Tarea 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

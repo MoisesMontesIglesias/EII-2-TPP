@@ -1,0 +1,32 @@
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.exe
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.deps.json
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.json
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.dev.json
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.dll
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.pdb
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.AssemblyReference.cache
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfo.cs
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.dll
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\refint\IEnumerable.dll
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.pdb
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.genruntimeconfig.cache
+C:\Users\uo296102\Downloads\TPP04_2324\TPP04\IEnumerable\obj\Debug\net5.0\ref\IEnumerable.dll
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.exe
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.deps.json
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.json
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.dev.json
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.dll
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.pdb
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.dll
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\refint\IEnumerable.dll
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.pdb
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.genruntimeconfig.cache
+E:\2ºAño\2º cuatri\TPP\TPP04\IEnumerable\obj\Debug\net5.0\ref\IEnumerable.dll

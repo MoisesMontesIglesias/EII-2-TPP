@@ -1,0 +1,24 @@
+F:\Desktop\TPP05_2122\TPP05\Modelo\bin\Debug\net5.0\Modelo.deps.json
+F:\Desktop\TPP05_2122\TPP05\Modelo\bin\Debug\net5.0\Modelo.dll
+F:\Desktop\TPP05_2122\TPP05\Modelo\bin\Debug\net5.0\Modelo.pdb
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.dll
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\Modelo.pdb
+F:\Desktop\TPP05_2122\TPP05\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\bin\Debug\net5.0\Modelo.deps.json
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\bin\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\bin\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\TPP05_2324\TPP05\Modelo\obj\Debug\net5.0\ref\Modelo.dll

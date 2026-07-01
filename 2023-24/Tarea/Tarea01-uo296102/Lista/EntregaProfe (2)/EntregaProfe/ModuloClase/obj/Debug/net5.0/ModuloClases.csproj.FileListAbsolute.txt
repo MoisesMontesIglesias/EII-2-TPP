@@ -1,0 +1,12 @@
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\bin\Debug\net5.0\ModuloClases.deps.json
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\bin\Debug\net5.0\ModuloClases.dll
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\bin\Debug\net5.0\ModuloClases.pdb
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.dll
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\refint\ModuloClases.dll
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ModuloClases.pdb
+E:\2ºAño\2º cuatri\TPP\Tarea\Lista\ModuloClase\obj\Debug\net5.0\ref\ModuloClases.dll

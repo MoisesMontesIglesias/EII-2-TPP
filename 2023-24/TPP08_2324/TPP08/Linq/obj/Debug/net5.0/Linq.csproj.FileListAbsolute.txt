@@ -1,0 +1,38 @@
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.exe
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.deps.json
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.runtimeconfig.json
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.runtimeconfig.dev.json
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.pdb
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Modelo.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Modelo.pdb
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.AssemblyReference.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.AssemblyInfoInputs.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.AssemblyInfo.cs
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.CopyComplete
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\refint\Linq.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.pdb
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.genruntimeconfig.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\ref\Linq.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.exe
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.deps.json
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.runtimeconfig.json
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.runtimeconfig.dev.json
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Linq.pdb
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\bin\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.csproj.CopyComplete
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\refint\Linq.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.pdb
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\Linq.genruntimeconfig.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Linq\obj\Debug\net5.0\ref\Linq.dll

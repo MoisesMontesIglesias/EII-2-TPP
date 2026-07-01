@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea03/1.0.0": {
+        "dependencies": {
+          "ModuloClases": "1.0.0"
+        },
+        "runtime": {
+          "Tarea03.dll": {}
+        }
+      },
+      "ModuloClases/1.0.0": {
+        "runtime": {
+          "ModuloClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModuloClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

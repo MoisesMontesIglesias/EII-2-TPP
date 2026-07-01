@@ -1,0 +1,5 @@
+D:\2ºAño\2º cuatri\TPP\Tarea\Lista\Tarea01\obj\Debug\net5.0\Tarea01.csproj.AssemblyReference.cache
+D:\2ºAño\2º cuatri\TPP\Tarea\Lista\Tarea01\obj\Debug\net5.0\Tarea01.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ºAño\2º cuatri\TPP\Tarea\Lista\Tarea01\obj\Debug\net5.0\Tarea01.AssemblyInfoInputs.cache
+D:\2ºAño\2º cuatri\TPP\Tarea\Lista\Tarea01\obj\Debug\net5.0\Tarea01.AssemblyInfo.cs
+D:\2ºAño\2º cuatri\TPP\Tarea\Lista\Tarea01\obj\Debug\net5.0\Tarea01.csproj.CoreCompileInputs.cache

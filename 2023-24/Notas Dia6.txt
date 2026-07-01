@@ -1,0 +1,19 @@
+En el main del program(CLausuras) para poder utilizar n, debe ser estático
+ya que debe existir y tener un valor los parámetros de EsMenor.
+Las funciones no deben de estar rotas, por lo tanto, los returns de las funciones
+deben de existir en memoria siempre, si no lo devuelve, se pierde
+Ej:
+int contador
+int valor
+return contador 
+-> Contador no se pierde y se mantiene en memoria.
+-> Valor se pierde ya que no se devuelve
+La clase ClausuraContador, es el equivalente a u constructor en orientado a objetos.
+El out te obliga a darle un valor y que estén inicializados
+
+Para saber cuantas clausuras tiene, hay que mirar si en cada funcion se usa el estado
+
+La currificación, hacce que una función que recibe X parametros, solo reciba un ÚNICO parámetro
+
+Paradigma Parcial --> Func<int, int> SumaTres = SumaCurrificada(3); 
+Porque 3 ya se le da por defecto

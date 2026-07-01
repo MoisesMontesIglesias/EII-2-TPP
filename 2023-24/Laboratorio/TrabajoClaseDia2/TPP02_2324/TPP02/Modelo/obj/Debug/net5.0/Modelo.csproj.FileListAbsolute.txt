@@ -1,0 +1,12 @@
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\bin\Debug\net5.0\Modelo.deps.json
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\bin\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\bin\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\Laboratorio\TrabajoClaseDia2\TPP02_2324\TPP02\Modelo\obj\Debug\net5.0\ref\Modelo.dll

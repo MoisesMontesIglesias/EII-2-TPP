@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tarea01/1.0.0": {
+        "dependencies": {
+          "ModuloClase": "1.0.0"
+        },
+        "runtime": {
+          "Tarea01.dll": {}
+        }
+      },
+      "ModuloClase/1.0.0": {
+        "runtime": {
+          "ModuloClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModuloClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

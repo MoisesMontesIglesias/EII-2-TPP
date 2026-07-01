@@ -1,0 +1,32 @@
+Utilizar el is en un if cuando no vas a utilizarlo dentro.
+Usar el as cuando vas a usarlo dentro de un if, es decir, para trabajar con la referencia
+is es 8 veces mas lento que el as
+Métodos extensores o añade a la clase o un metodo que...
+Son clases públicas estáticas con métodos estáticos con parámetro (this ... ...) --> EJ (public static int ContarVocalesSinTilde(this string texto))
+Parámetros opcionales: Si estan inicializados, ej: bool saber = false. No son obligatorios de darles valores
+public static IList FiltrarNumeros(int[] numeros, bool repetidos = false, int multiplosDe = 1) --> Llamadas al método FiltrarNumeros(numeros, False, 3) --> 
+(multiplos de:4,numeros:{})
+Haz un método que devuelva X e Y, con un método void --> Pregunta sobre emplear el out
+
+Notas Dia3:
+Mismo HashCode diferente objeto
+Cumplir programación por contrato (pre y postcondiciones)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

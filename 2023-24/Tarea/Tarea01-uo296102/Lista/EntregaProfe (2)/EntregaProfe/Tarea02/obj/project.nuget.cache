@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkCfBS2h8K9RpJ0VB84Crs946WrQg1b7zlwSpWX0yOB8jRxK1fGJsGzWobD/wW/6mRKRD2hRhkKDmViaSblV/g==",
+  "success": false,
+  "projectFilePath": "E:\\2ºAño\\2º cuatri\\TPP\\Tarea\\Tarea01-uo296102\\Lista\\EntregaProfe (2)\\EntregaProfe\\Tarea02\\Tarea03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"E:\\2ºAño\\2º cuatri\\TPP\\Tarea\\Tarea01-uo296102\\Lista\\Lista\\ModuloClase\\ModuloClases.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "E:\\2ºAño\\2º cuatri\\TPP\\Tarea\\Tarea01-uo296102\\Lista\\Lista\\ModuloClase\\ModuloClases.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

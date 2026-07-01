@@ -1,0 +1,20 @@
+Es una función de orden superior, porque recibe una función y/o devuelve otra
+No va a preguntar los listener
+
+Func: Recibe 0,...,16 params y devuelve 1 valor
+Predicate: Recibe 1 parametro, devuelve T/F
+Action: Reciben 0,...,16 params y devuelve void
+
+Func<char, char, string> funcion = Concatenar; (2 parametros char, y devuelve String)
+Delegados genericos, func, predicate, action
+
+Todas las funciones tendrán static
+
+No se itera, se hace recursividad
+
+Action<int> --> Parametro int y no devuelve nada
+Action --> No tiene parametro y no devuelve nada 
+
+ForEach es un método extensor
+
+IList<T> _nuevaLista = new List<T>(); --> Devuelve un IEnumerable<T>

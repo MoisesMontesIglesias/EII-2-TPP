@@ -1,0 +1,24 @@
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\uo296102\Downloads\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.deps.json
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\bin\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\Modelo.pdb
+E:\2ºAño\2º cuatri\TPP\TPP08_2324\TPP08\Modelo\obj\Debug\net5.0\ref\Modelo.dll

@@ -1,0 +1,20 @@
+Si hacemos un for each de este tipo:
+ var iterador = Funciones.FibonacciInfinito().GetEnumerator();
+            iterador.MoveNext();
+
+            Console.WriteLine("Término 1: {0}.", iterador.Current);
+
+            // iterador.Reset();  <- ¡OJO! El reset no está soportado.
+
+            Console.WriteLine();
+
+Si empleamos el yield, no implementa el reset, por lo tanto hay que llamar al GetEnumerator() otra vez a mano
+
+El estricto, nos obliga a generar todos los numeros y luego podemos usar solamente 2,3 o los que sean
+La perezosa se ejecuta solo cuando se hace el foreach, no cuando se instancia
+Skip() y Take() son perezosas tambien.
+Los elemento se generan bajo demanda.
+
+Operacion(3+2, 5+1) --> Es estricto, primero haya las sumas y luego entra dentro de la funcion
+
+Operacion(Func<int> a, Func<int> b) --> es lazy, hasta que no se llame a (a o b) no se halla el resultado de esa suma
